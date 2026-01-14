@@ -4,11 +4,11 @@
   <i>The all-in-one offline-first networking toolbox for sysadmins</i><br>
   🌐 <b><a href="https://networking-toolbox.as93.net">networking-toolbox.as93.net</a></b>
 </p>
-<a href="https://networking-toolbox.as93.net">
+
 <p align="center">
-  <img width="128" src="https://github.com/Lissy93/networking-toolbox/blob/main/static/icon.png?raw=true" />
-  </p>
-</a>
+  <i>This is just a FORK! The real thing can be found here:</i><br>
+  🔆 <b><a href="https://github.com/Lissy93/networking-toolbox">https://github.com/Lissy93/networking-toolbox</a></b>
+</p>
 
 ---
 
